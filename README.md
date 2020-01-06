@@ -1,7 +1,7 @@
 # retation-day
 Script for apply retation in some files on datastorage 
 
-## Use 
+## How to 
 
 ```
 $ retencion-day [opt1] [opt2]
